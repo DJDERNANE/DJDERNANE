@@ -46,7 +46,7 @@ A Next.js website and a Laravel/Filament admin panel for an AI solutions provide
 ##  Let's connect
  
 -  Email: [djilali.dernane.contact@gmail.com](mailto:djilali.dernane.contact@gmail.com)
--  LinkedIn: [add your link here](https://www.linkedin.com/in/djilali-dernane/)
+-  LinkedIn: [DJILALI DERNANE](https://www.linkedin.com/in/djilali-dernane/)
   
 ---
  
